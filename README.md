@@ -24,6 +24,7 @@ About replit:
 14.invite others to edit your repls (click invite button near run button, invite replit users or add emails of those u want to invite, may also send out a join link button at bottom)
 
 Reflecting changes in replit to github:
+1.open git press commit&push all to github, add details about what u changed at the time of pushing.
 
 
 For running code in replit:
@@ -31,3 +32,4 @@ For running code in replit:
 2.under config files open .replit 
 3.set run = "python app.py" (configure what the run button will do)
 
+for Html guide visit htmldog.com
